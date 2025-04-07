@@ -254,6 +254,10 @@ const Spells = [
         name: "Wind Dash",
         functionCall: windDashFunction
     }
+    /**  {
+        name: "Charged Sonic Blast",
+        functionCall: //none yet
+    } **/
 ]
 
 /** @type {Map<string, import("../Definitions/SpellDef").SpellDef>} */
